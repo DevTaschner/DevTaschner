@@ -42,7 +42,6 @@ Passionate about building scalable applications and modern web apps.
 * 💻 Full Stack Developer
 * ⚡ Focused on **Vite, React Native and Next.js**
 * 📚 Currently studying **Docker and Nginx**
-* 🎯 Passionate about building scalable systems
 
 ---
 
