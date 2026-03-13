@@ -1,47 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Guilherme+da+Silveira+Taschner&fontSize=30&fontColor=ffffff" alt="Guilherme Taschner" />
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme+Taschner;I'm+23+years+old;I+am+Software+Engineering;Be+Welcome!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:38BDF8&height=180&section=header"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevTaschner&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=b13583&text_color=b13583&bg_color=0d1117" alt="Guilherme da Silveira github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTaschner&layout=compact&hide_border=true&title_color=9370DB&text_color=b13583&bg_color=0d1117" />
-</div>
-</div>
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Guilherme Taschner
+</h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevTaschner&&bg_color=0d1117&color=6A5ACD&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="center">
+💻 Software Engineer | Full Stack Developer
+</h3>
 
-<div align="center">  
-<a href="https://www.instagram.com/taschner_71/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
-  
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<p align="center">
+Passionate about building scalable applications and modern web apps.
+</p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,typescript,docker&theme=dark"/>
+</p>
+
+---
+
+<p align="center">
   
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-![Postgress](https://img.shields.io/badge/-postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![React Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![Nginx](https://img.shields.io/badge/-nginx-0D1117?style=for-the-badge&logo=nginx&labelColor=0D1117)&nbsp;
-![Nest.js](https://img.shields.io/badge/-nest.js-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
+<a href="mailto:dev.taschner@gmail.com">
+<img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/guilherme-taschner-4b86a9248/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/taschner_71">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎂 23 years old
+* 💻 Full Stack Developer
+* ⚡ Focused on **Vite, React Native and Next.js**
+* 📚 Currently studying **Docker and Nginx**
+* 🎯 Passionate about building scalable systems
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevTaschner}/count.svg" /></p> 
-<br></div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
-  
-<!-- ![Snake animation](https://github.com/DevTaschner/DevTaschner/blob/output/github-contribution-grid-snake.svg) -->
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevTaschner&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=22D3EE"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTaschner&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevTaschner\&bg_color=0D1117\&color=38BDF8\&line=00BFFF\&point=22D3EE\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p align="center">
+💬 Feel free to reach out for collaborations or opportunities.
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:38BDF8&height=120&section=footer"/>
